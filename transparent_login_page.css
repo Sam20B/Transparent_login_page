@@ -50,6 +50,7 @@ body {
     background-color:rgba(100, 98, 98, 0.0);
     vertical-align: baseline;
     text-align:center;
+    font-size:medium;
 }
 .i1:focus {
     outline:none;
@@ -75,6 +76,7 @@ body {
     border-right:none;
     background-color:rgba(100, 98, 98, 0.0);
     text-align:center;
+    font-size:medium;
 }
 .i2:focus {
     outline:none;
