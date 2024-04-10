@@ -51,6 +51,7 @@ body {
     vertical-align: baseline;
     text-align:center;
     font-size:medium;
+    background-color: transparent;
 }
 .i1:focus {
     outline:none;
