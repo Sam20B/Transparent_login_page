@@ -16,7 +16,7 @@ body {
     min-width: 300px;
     max-height: 65%;
     border-radius: 10px;
-    background-color: rgba(48, 46, 46, 0.425);
+    background-color: rgba(46, 46, 48, 0.596);
     backdrop-filter: blur;
     box-shadow: 0px 10px 15px 7px rgba(44, 42, 42, 0.226);
 }
@@ -55,6 +55,12 @@ body {
 }
 .i1:focus {
     outline:none;
+}
+.link {
+    color:blue;
+}
+link:visited {
+    color:blueviolet;
 }
 .l2 {
     position:absolute;
@@ -113,14 +119,15 @@ body {
     width:80%;
     height:40px;
     border-radius:50px;
-    background-color:rgba(26, 24, 24, 0.315);
+    background-color:rgba(26, 24, 24, 0.726);
     font-family:consolas;
     font-size:x-large;
     font-weight:500px;
     color:rgb(0, 0, 0);
+    transition: background-color 0.3s;
 }
 .b:hover {
-    background-color: rgba(26, 24, 24, 0.1);
+    background-color: rgba(26, 24, 24, 0.548);
 }
 .p2 {
     position:absolute;
